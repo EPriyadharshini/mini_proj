@@ -1,8 +1,21 @@
 # mini_proj
 Name :PRIYADHARSHINI E
 Reg no: 212223230159
+
+
+
+
+
+
 Aim:
 To implement a face detection system using CUDA GPU programming to accelerate the image processing tasks and achieve faster detection performance compared to CPU-based execution.
+
+
+
+
+
+
+
 
 Procedure:
 1.Setup the CUDA Environment:
@@ -30,6 +43,14 @@ Procedure:
 12.Performance Measurement:
 
 13.Record execution time on CPU and GPU for comparison.
+
+
+
+
+
+
+
+
 
 Program:
 from google.colab import files
