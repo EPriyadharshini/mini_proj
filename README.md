@@ -1,4 +1,4 @@
-# mini_proj
+# mini_proj cuda
 Name :PRIYADHARSHINI E
 Reg no: 212223230159
 
